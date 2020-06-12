@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916831417632",
+    "firebase_url": "https://beergarden-5b352.firebaseio.com",
+    "project_id": "beergarden-5b352",
+    "storage_bucket": "beergarden-5b352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916831417632:android:843ae211111a6905e3d345",
+        "android_client_info": {
+          "package_name": "com.example.beergarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916831417632-7f111l4k9pu5eftrgl138pimoc3uoal8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAduN8f4ImRYofyMxOsVHcMZ8d51Ks8a88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916831417632-7f111l4k9pu5eftrgl138pimoc3uoal8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
